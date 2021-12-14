@@ -1,0 +1,16 @@
+{
+  "test1": {
+    "going_from": "GOI",
+    "going_to": "Mumbai",
+    "origin_date": "21/01/2022",
+    "return_date": "16/05/2022",
+    "stop": "Non Stop"
+  },
+  "test2": {
+    "going_from": "Chennai",
+    "going_to": "HYD",
+    "origin_date": "05/01/2022",
+    "return_date": "16/03/2022",
+    "stop": "Non Stop"
+  }
+}
